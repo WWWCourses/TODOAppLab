@@ -1,0 +1,13 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+header, footer{
+	height: 10vh;
+	background: #666;
+	color: #DDD;
+}
+#app{
+	height: 80vh;
+	background: #DDD;
+}
