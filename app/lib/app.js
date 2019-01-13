@@ -10,7 +10,7 @@ class App{
 	}
 
 	showComponent(componentName){
-		this.component[componentName].
+		this.component[componentName].view();
 	}
 
 	updateView(targetElement, content){
@@ -19,3 +19,5 @@ class App{
 
 
 }
+
+export default App;

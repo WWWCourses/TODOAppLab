@@ -31,4 +31,4 @@ class TodosComponent{
 	}
 }
 
-export default todosComponent;
+export default TodosComponent;
